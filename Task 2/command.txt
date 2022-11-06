@@ -1,0 +1,1 @@
+dot -Tpdf id3_tree.dot -o id3_tree.pdf
